@@ -1,3 +1,3 @@
 # Color Matching Game | Written in vanilla javascript
 
-DEMO: []
+DEMO: [color-matching-game-eight.vercel.app]
